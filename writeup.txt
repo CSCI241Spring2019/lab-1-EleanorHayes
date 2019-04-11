@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 1) Eleanor Hayes
 2) Hobby: Writin
+=======
+
+>>>>>>> ec617d0ec37eb8ed831d6ceb633126dc0ae03cf8
